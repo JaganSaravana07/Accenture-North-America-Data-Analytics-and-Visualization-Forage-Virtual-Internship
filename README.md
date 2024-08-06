@@ -38,7 +38,7 @@ I prepared a PowerPoint presentation using the given template, incorporating var
 
 This presentation was designed to effectively communicate the key insights from my analysis.
 
-Task PPT - [Click](https://github.com/JaganSaravana07/Accenture-North-America-Data-Analytics-and-Visualization-Forage-Virtual-Internship/blob/main/Task%20PPT.pptx)
+Task PPT - [Click Here](https://github.com/JaganSaravana07/Accenture-North-America-Data-Analytics-and-Visualization-Forage-Virtual-Internship/blob/main/Task%20PPT.pptx)
 
 ## Task 4 - Client Presentation
 I presented my PowerPoint to the client, delivering insights and recommendations based on my analysis.
