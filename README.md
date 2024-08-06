@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## Jagan Saravana
 ### Computer Science Engineering Graduate
 
