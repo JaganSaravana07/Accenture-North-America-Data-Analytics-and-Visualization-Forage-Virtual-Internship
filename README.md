@@ -40,5 +40,5 @@ PPT Template - Click
 ## Task 4 - Client Presentation
 I presented my PowerPoint to the client, delivering insights and recommendations based on my analysis.
 
-### This virtual internship was an enriching experience that enhanced my skills in data analysis, data cleaning, modelling, and visualization, as well as in communicating insights effectively.
+This virtual internship was an enriching experience that enhanced my skills in data analysis, data cleaning, modelling, and visualization, as well as in communicating insights effectively.
 
