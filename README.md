@@ -1,5 +1,5 @@
 # About Me:
-### Jagan Saravana
+### JAGAN SARAVANA
 ### Computer Science Engineering Graduate
 
 `Data Analyst` `Digital Marketing` `Front-end Developer` `Web Designer`
