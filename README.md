@@ -34,6 +34,7 @@ Next, I created a final dataset by merging the three cleaned tables. This result
 I prepared a PowerPoint presentation using the given template, incorporating various charts such as:
 - Pie Chart
 - Bar Chart
+
 This presentation was designed to effectively communicate the key insights from my analysis.
 
 Task PPT - [Click](https://github.com/JaganSaravana07/Accenture-North-America-Data-Analytics-and-Visualization-Forage-Virtual-Internship/blob/main/Task%20PPT.pptx)
