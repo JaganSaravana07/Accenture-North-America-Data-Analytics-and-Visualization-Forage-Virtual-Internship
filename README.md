@@ -5,7 +5,7 @@ The Accenture North America's Data Analytics and Visualization virtual internshi
 [Click Here](https://github.com/JaganSaravana07/Accenture-North-America-Data-Analytics-and-Visualization-Forage-Virtual-Internship/blob/main/Accenture%20North%20America_Data%20Analytics%20and%20Visualization_completion_certificate.pdf)
 
 ## Task 1 - Project Understanding
-### Task Description
+
 As a data analyst, I acted as a bridge between the business and the data. I worked under the guidance of Mae Mulligan, an Accenture Managing Director, who was the client lead for Social Buzz. Social Buzz, our client, faced challenges in handling massive data due to rapid growth. 
 Accenture was tasked with:
 - Conducting an audit of big data practices
@@ -15,7 +15,7 @@ My specific task was to analyze sample datasets and visualize the popularity of 
 About Client : Social Buzz
 
 ## Task 2 - Data Cleaning and Modelling
-### Task Description
+
 To address the business question of determining the top 5 popular content categories, I identified and worked with the following datasets:
 - Reaction Score (quantifying popularity)
 - Content ID
@@ -35,7 +35,7 @@ I prepared a PowerPoint presentation using the given template, incorporating var
 - Pie Chart
 - Bar Chart
 This presentation was designed to effectively communicate the key insights from my analysis.
-PPT Template - Click
+PPT Template - [Click](https://github.com/JaganSaravana07/Accenture-North-America-Data-Analytics-and-Visualization-Forage-Virtual-Internship/blob/main/Task%20PPT.pptx)
 
 ## Task 4 - Client Presentation
 I presented my PowerPoint to the client, delivering insights and recommendations based on my analysis.
