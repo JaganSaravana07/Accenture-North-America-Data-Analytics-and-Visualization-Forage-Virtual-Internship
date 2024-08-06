@@ -35,6 +35,7 @@ I prepared a PowerPoint presentation using the given template, incorporating var
 - Pie Chart
 - Bar Chart
 This presentation was designed to effectively communicate the key insights from my analysis.
+
 PPT Template - [Click](https://github.com/JaganSaravana07/Accenture-North-America-Data-Analytics-and-Visualization-Forage-Virtual-Internship/blob/main/Task%20PPT.pptx)
 
 ## Task 4 - Client Presentation
