@@ -21,13 +21,13 @@ The Accenture North America's Data Analytics and Visualization virtual internshi
 [Click Here](https://github.com/JaganSaravana07/Accenture-North-America-Data-Analytics-and-Visualization-Forage-Virtual-Internship/blob/main/Accenture%20North%20America_Data%20Analytics%20and%20Visualization_completion_certificate.pdf)
 
 ## There are 4 modules in this virtual experience programme
-♦ Framing the Business Scenario
+♦ Project Understanding
 
-♦ Choosing the Right Visuals
+♦ Data Cleaning and Modelling
 
-♦ Creating Effective Visuals
+♦ Data Visualization and Storytelling
 
-♦ Communicating Insights and Analysis
+♦ Client Presentation
 
 ## Task 1 - Project Understanding
 
