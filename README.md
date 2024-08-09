@@ -20,6 +20,15 @@ The Accenture North America's Data Analytics and Visualization virtual internshi
 ## Certificate
 [Click Here](https://github.com/JaganSaravana07/Accenture-North-America-Data-Analytics-and-Visualization-Forage-Virtual-Internship/blob/main/Accenture%20North%20America_Data%20Analytics%20and%20Visualization_completion_certificate.pdf)
 
+## There are 4 modules in this virtual experience programme
+♦ Framing the Business Scenario
+
+♦ Choosing the Right Visuals
+
+♦ Creating Effective Visuals
+
+♦ Communicating Insights and Analysis
+
 ## Task 1 - Project Understanding
 
 As a data analyst, I acted as a bridge between the business and the data. I worked under the guidance of Mae Mulligan, an Accenture Managing Director, who was the client lead for Social Buzz. Social Buzz, our client, faced challenges in handling massive data due to rapid growth. 
