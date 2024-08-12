@@ -4,9 +4,6 @@
  
 The Accenture North America's Data Analytics and Visualization virtual internship on Forage offers an immersive experience simulating the role of a Data Analyst. Participants tackle real-world tasks, honing skills in data cleaning, modelling, analysis, visualization, and presentation, mirroring the day-to-day responsibilities of data analysts.
 
-## Certificate
-[Click Here](https://github.com/JaganSaravana07/Accenture-North-America-Data-Analytics-and-Visualization-Forage-Virtual-Internship/blob/main/Accenture%20North%20America_Data%20Analytics%20and%20Visualization_completion_certificate.pdf)
-
 ## There are 4 modules in this virtual experience programme
 ♦ Project Understanding
 
@@ -55,4 +52,6 @@ Task PPT - [Click Here](https://github.com/JaganSaravana07/Accenture-North-Ameri
 I presented my PowerPoint to the client, delivering insights and recommendations based on my analysis.
 
 This virtual internship was an enriching experience that enhanced my skills in data analysis, data cleaning, modelling, and visualization, as well as in communicating insights effectively.
+
+#### Course Completion Certificate: [Click Here](https://github.com/JaganSaravana07/Accenture-North-America-Data-Analytics-and-Visualization-Forage-Virtual-Internship/blob/main/Accenture%20North%20America_Data%20Analytics%20and%20Visualization_completion_certificate.pdf)
 
